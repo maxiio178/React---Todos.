@@ -1,0 +1,19 @@
+{
+    "todos":[
+        {
+            "name": "task 1",
+            "description": "You need maked a react app",
+            "priority": "1" 
+        },
+        {
+            "name": "task 2",
+            "description": "go to lerning fuking english beach",
+            "priority": "2" 
+        },
+        {
+            "name": "task 3",
+            "description": "go to the fuking gym beach",
+            "priority": 0 
+        }
+    ]
+}
